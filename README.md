@@ -1,2 +1,6 @@
-# pymar2024
-Python test automation course
+#pymar2024 
+
+Kate Zavadskaya
+
+My first step \m/ in Python test automation course
+
